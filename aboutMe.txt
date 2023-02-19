@@ -2,3 +2,9 @@ My name is Dovi Kimmel
 I'm 21 years old
 I'm a comp sci major
 I'm from Staten Island
+
+
+This is me adding to my file in my first branch:
+
+I was in a highscool called JEC in Jersey
+I always knew I wanted to do computer science
